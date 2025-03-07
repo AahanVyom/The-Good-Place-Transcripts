@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/The-Good-Place-Transcripts/static/js/main.6ba1daf1.js",
+    "main.js": "/The-Good-Place-Transcripts/static/js/main.a49a9651.js",
     "static/media/hero-image 2.jpg": "/The-Good-Place-Transcripts/static/media/hero-image 2.8c7890853e13977cad3d.jpg",
     "index.html": "/The-Good-Place-Transcripts/index.html",
-    "main.6ba1daf1.js.map": "/The-Good-Place-Transcripts/static/js/main.6ba1daf1.js.map"
+    "main.a49a9651.js.map": "/The-Good-Place-Transcripts/static/js/main.a49a9651.js.map"
   },
   "entrypoints": [
-    "static/js/main.6ba1daf1.js"
+    "static/js/main.a49a9651.js"
   ]
 }
